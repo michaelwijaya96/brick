@@ -1,0 +1,21 @@
+com/brick/dto/TokopediaData.java
+ com.brick.dto.TokopediaData
+com/brick/dto/ScrapeProductResponse.java
+ com.brick.dto.ScrapeProductResponse
+com/brick/dto/QueryTokopediaProductRequestDTO.java
+ com.brick.dto.QueryTokopediaProductRequestDTO
+ com.brick.dto.QueryTokopediaProductRequestDTO$Variable
+com/brick/proxy/TokopediaProxy.java
+ com.brick.proxy.TokopediaProxy
+com/brick/Util.java
+ com.brick.Util
+com/brick/Application.java
+ com.brick.Application
+com/brick/dto/TokopediaShopCore.java
+ com.brick.dto.TokopediaShopCore
+com/brick/service/ScrapeProductService.java
+ com.brick.service.ScrapeProductService
+ com.brick.service.ScrapeProductService$1
+ com.brick.service.ScrapeProductService$2
+com/brick/controller/ScrapeProductController.java
+ com.brick.controller.ScrapeProductController
